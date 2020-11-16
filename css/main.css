@@ -97,21 +97,21 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #053b39;
   height: 100%;
 }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
-  font-size: 1.25em;
+  font-size: 1.1em;
   height: 100%;
 }
 
 .wrapper {
   display: flex;
   justify-content: space-between;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .div-1, .div-2, .div-3 {
@@ -119,11 +119,15 @@ body {
   width: 30%;
   justify-content: center;
   align-items: center;
-  color: #fff;
-  line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  color: #d1fdfc;
+  line-height: 1.3em;
+  font-size: 1.2em;
+  background-color: #053b39;
   height: 300px;
+  padding: 2%;
+  box-sizing: border-box;
+  border-left: 3px dashed rgb(174, 245, 217);
+  border-bottom: 3px dashed rgb(174, 245, 217);
 }
 
 
